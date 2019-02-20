@@ -34,14 +34,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ICT37008G1-LBK-fall-2018/final-t1-dzidzik777.git"
+    "url": "git+https://github.com/ICT37008G1-LBK-fall-2018/final-t1-lukanemso.git"
   },
-  "author": "Luka_dzidzika",
+  "author": "Luka_nemso",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ICT37008G1-LBK-fall-2018/final-t1-dzidzik777/issues"
+    "url": "https://github.com/ICT37008G1-LBK-fall-2018/final-t1-lukanemso/issues"
   },
-  "homepage": "https://github.com/ICT37008G1-LBK-fall-2018/final-t1-dzidzik777#readme",
+  "homepage": "https://github.com/ICT37008G1-LBK-fall-2018/final-t1-lukanemso#readme",
   "dependencies": {
     "axios": "^0.18.0"
   }
